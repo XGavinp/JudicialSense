@@ -1,0 +1,4 @@
+# Ignore virtual environment and model cache
+flask_server/venv/
+flask_server/model_cache/
+flask_server/venv/
